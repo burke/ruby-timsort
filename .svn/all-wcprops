@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/4/trunk
+END
+heapSortLibc.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/heapSortLibc.c
+END
+timSort.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/timSort.c
+END
+mergeSortLibc.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/mergeSortLibc.c
+END
+gendata.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/4/trunk/gendata.c
+END
+heapSortLibc.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/heapSortLibc.h
+END
+sortperf.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4/trunk/sortperf.c
+END
+quickSort.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/quickSort.c
+END
+timSort.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/timSort.h
+END
+mergeSortLibc.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/mergeSortLibc.h
+END
+quickSort.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/quickSort.h
+END
+myType.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/myType.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/4/trunk/Makefile
+END
